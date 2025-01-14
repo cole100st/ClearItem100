@@ -15,12 +15,12 @@
 
 > # :jigsaw:  Téléchargement
 
-`*[ClearItem100V1.0.0](https://github.com/cole100st/ClearItem100/releases/tag/ClearItem100)*`
+`[ClearItem100V1.0.0](https://github.com/cole100st/ClearItem100/releases/tag/ClearItem100)`
 
 Voir le ReadMe :
 
-`*[ClearItem100V1.0.0](https://github.com/cole100st/ClearItem100/tree/main)*`
+`[ClearItem100V1.0.0](https://github.com/cole100st/ClearItem100/tree/main)`
 
 > # :postbox:  Contact
 
-`Pour tout contact vous pouvez me MP Discord ou @ sous le poste *(cole100st)*.`
+`Pour tout contact vous pouvez me MP Discord ou @ sous le poste *(cole100st).`
